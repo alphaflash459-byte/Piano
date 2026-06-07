@@ -1,0 +1,6 @@
+{
+  "name": "Neon Piano",
+  "description": "A highly responsive, interactive neon synthesizer piano with cascading notes, multiple instruments, traditional Cambodian instruments, custom MIDI file uploader, and AI autoplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
